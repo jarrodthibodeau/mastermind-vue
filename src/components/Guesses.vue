@@ -36,7 +36,7 @@
         display: flex;
         justify-content: center;
         margin-top: 10px;
-        width: 0%;
+        width: 100%;
     }
 
     @media screen and (max-width: 900px) {
