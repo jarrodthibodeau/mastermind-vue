@@ -16,9 +16,9 @@
 <style>
     .button {
         position: relative;
-        width: 7%;
-        right: 15%;
-        height: 100px;
+        width: 6%;
+        right: 15.5%;
+        height: 75px;
         border: 5px solid black;
         border-radius: 50%;
         margin: 30px;
