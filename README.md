@@ -1,6 +1,6 @@
 # Mastermind
 
-> A simple implementation of the game Mastermind using VueJS
+> A simple implementation of the game Mastermind using VueJS. Seen running here, [Mastermind](https://glacial-bayou-63464.herokuapp.com/).
 
 ## Build Setup
 
